@@ -1,10 +1,8 @@
 
 <!-- Intro  -->
-<h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://kvnrajasekhar.github.io/cv/">Rajasekhar</a></b>
-        </samp>
-</h3>
+<h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/kvnrs23/">Rajasekhar</a> </h1>
+
+
 
 
 
@@ -16,7 +14,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raja"/>
  </a>
  <a href="https://twitter.com/vnrajasekar" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
  </a>
  <a href="https://instagram.com/vnrajasekar_.rahul" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="raja" />
@@ -30,42 +28,66 @@
 <!-- About Section -->
  # About me
  
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: kanagalavnrajasekhar@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything (kanagalavnrajasekhar@gmail.com)
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg49pyqSutIG6xDHG-3Vi76Tqu-N280YATw&s" min-width="100px" max-width="150px" width="300px" align="right" >
+<p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, a dedicated learner with a keen interest in the dynamic realms of Full-Stack Web Development and DevOps. 
+        
+Web Development Journey:
+Two virtual internships have enriched my skills in web development, exposing me to diverse projects that span the spectrum from frontend design to backend logic. 
+        
+DevOps Exploration:
+Eager to embrace the culture of collaboration and efficiency, I've been delving into the world of DevOps. By integrating development and operations, I aim to streamline workflows, automate processes, and enhance overall project delivery. 
 
+Continuous learning in this space keeps me at the forefront of industry best practices.
+Constantly upgrading my skills, I believe in staying ahead of the curve. As the tech landscape evolves, so do I. The journey of learning is a perpetual adventure, and I'm thrilled to embrace every challenge it brings.
+I'm always open to connecting with like-minded professionals, enthusiasts, and potential collaborators. If you share an interest in web development, DevOps, or simply want to exchange ideas, feel free to reach out!.</p>  
+
+  <a href="https://www.linkedin.com/in/kvnrs23/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCdSKDDkFLQwrtNjXqlMLnzkxrgsTXvFvhWFCdrDmzVTtHPtsDXqClLFLXWLBfXzfknq" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail logo"  />
+  </a>
 </p>
 
 <br/>
-<br/>
-<br/>
+
 
 ## Use To Code
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black)
+<a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-ffd43b?style=for-the-badge&labelColor=black&logo=python&logoColor=4b8bbe" height="30" alt="python"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=black" height="30" alt="JAVA"/></a>
+<br/>
+
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=black" height="30" alt="python"/></a>
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black)
-![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
-![PYTHON](https://img.shields.io/badge/python-ffd43b?style=for-the-badge&labelColor=black&logo=python&logoColor=4b8bbe)
-![PHP](https://img.shields.io/badge/php-787cb5?style=for-the-badge&labelColor=black&logo=php&logoColor=787cb5)
-![JAVA](https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=black)
-<br>
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4db33d&labelColor=black)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+<a href="https://www.w3schools.com/js/" target="_blank">
+    <img src="https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" height="30" alt="linkedin logo"  />
+</a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/php-787cb5?style=for-the-badge&labelColor=black&logo=php&logoColor=787cb5" height="30" alt="php"/></a>
+<a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" height="30" alt="go"/>
+</br>
+
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4db33d&labelColor=black" height="30" alt=""/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt=""/></a>
+<a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" height="30" alt=""/></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" height="30" alt=""/></a>
 <br/>
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=black)
-![NPM](https://img.shields.io/badge/npm-cc3534?style=for-the-badge&logo=npm&logoColor=cc3534&labelColor=black)
-![API](https://img.shields.io/badge/rest%20api-0078d7?style=for-the-badge&%20studio&logoColor=0078d7&labelColor=black&label=API)
+
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=black" height="30" alt=""/></a>
+<a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-cc3534?style=for-the-badge&logo=npm&logoColor=cc3534&labelColor=black" height="30" alt=""/></a>
+<a href="https://blog.postman.com/rest-api-examples/" target="_blank"><img src="https://img.shields.io/badge/rest%20api-0078d7?style=for-the-badge&%20studio&logoColor=0078d7&labelColor=black&label=API" height="30" alt=""/></a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" height="30" alt="postman"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a>
 <br/>
-![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=0078d7&labelColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black)
-![GITHUB](https://img.shields.io/badge/github-999999?style=for-the-badge&labelColor=black&logo=github&logoColor=white)
-<br/>
+
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=0078d7&labelColor=black" height="30" alt=""/></a>
+<a href="https://www.git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=F05032&labelColor=black" height="30" alt=""/></a>
+<a href="https://docs.github.com/en/get-started" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-999999?style=for-the-badge&labelColor=black&logo=github&logoColor=white" height="30" alt="go"/> 
+ </a>
+ </br>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&labelColor=black&color=F5820D" height="30" alt="firebase"/> </a>
 
 ## Top Open Source -
 [![cv](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/cv)
