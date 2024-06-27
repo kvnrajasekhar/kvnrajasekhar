@@ -70,14 +70,15 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=4db33d&labelColor=black" height="30" alt=""/></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="30" alt=""/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" height="30" alt=""/></a>
-<a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" height="30" alt=""/></a>
+<a href="https://nodejs.org/en" target="_blank"><img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A" height="30" alt=""/></a>
+<a href="https://nextjs.org/" target="_blank"><img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" height="31" alt=""/></a>
 <br/>
 
 <a href="https://getbootstrap.com/" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=563D7C&labelColor=black" height="30" alt=""/></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black" height="30" alt="firebase"/> </a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/npm-cc3534?style=for-the-badge&logo=npm&logoColor=cc3534&labelColor=black" height="30" alt=""/></a>
 <a href="https://blog.postman.com/rest-api-examples/" target="_blank"><img src="https://img.shields.io/badge/rest%20api-0078d7?style=for-the-badge&%20studio&logoColor=0078d7&labelColor=black&label=API" height="30" alt=""/></a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=black" height="30" alt="postman"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a>
 <br/>
 
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=0078d7&labelColor=black" height="30" alt=""/></a>
@@ -87,7 +88,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
  </br>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&labelColor=black&color=F5820D" height="30" alt="firebase"/> </a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a>
 
 ## Top Open Source -
 [![cv](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/cv)
