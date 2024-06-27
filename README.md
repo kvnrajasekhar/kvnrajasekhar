@@ -44,7 +44,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
   <a href="https://www.linkedin.com/in/kvnrs23/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCKCDCdSKDDkFLQwrtNjXqlMLnzkxrgsTXvFvhWFCdrDmzVTtHPtsDXqClLFLXWLBfXzfknq" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kanagalavnrajasekhar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail logo"  />
   </a>
 </p>
