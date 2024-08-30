@@ -7,7 +7,7 @@
 
 
 <p align="center">
- <a href="https://portfolio-nextjs-seven-delta.vercel.app/" target="blank">
+ <a href="https://raja-eta.vercel.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="raja" />
  </a>
  <a href="https://linkedin.com/in/kvnrs23" target="_blank">
