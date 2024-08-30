@@ -52,7 +52,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <br/>
 
 
-## Use To Code
+# 💻 Use To Code
 
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-ffd43b?style=for-the-badge&labelColor=black&logo=python&logoColor=4b8bbe" height="30" alt="python"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=black" height="30" alt="JAVA"/></a>
@@ -90,7 +90,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a>
 
-## Top Open Source -
+#  Top Open Source 
 [![cv](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/cv)
 [![Tradeit](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/trade-app)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=banking-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/banking-system)
@@ -104,6 +104,15 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <hr/>
 <br/>
 
+
+# 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kvnrajasekhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+
+# 📊 GitHub Stats:
 <p align="center">
   <a href="https://github.com/kvnrajasekhar">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvnrajasekhar&theme=radical&border=7F3FBF&background=0D1117" alt="rajasekhar's GitHub streak"/>
@@ -124,3 +133,6 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 
 ![kvnrajasekhar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&custom_title=kvnrajasekhar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+
+[![](https://visitcount.itsvg.in/api?id=kvnrajasekhar&icon=2&color=1)](https://visitcount.itsvg.in)
