@@ -131,5 +131,6 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 ![kvnrajasekhar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&custom_title=kvnrajasekhar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-
-[![](https://visitcount.itsvg.in/api?id=kvnrajasekhar&icon=2&color=1)](https://visitcount.itsvg.in)
+<p align="justify"> 
+ <img src="https://komarev.com/ghpvc/?username=kvnrajasekhar&label=Profile%20views&color=5865f2&style=for-the-badge" alt="profile views" height="30"/>
+</p>
