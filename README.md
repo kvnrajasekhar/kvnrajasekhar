@@ -19,9 +19,6 @@
  <a href="https://instagram.com/vnrajasekar_.rahul" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="raja" />
  </a> 
- <a href="https://facebook.com/kanagala.vnrajasekar" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="raja"  />
-  </a> 
 </p>
 <br />
 
