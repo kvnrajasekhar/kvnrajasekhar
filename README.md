@@ -85,7 +85,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
  </br>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a>
+<!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a> -->
 
 #  Top Open Source 
 [![cv](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/cv)
