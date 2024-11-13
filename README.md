@@ -1,37 +1,38 @@
 
 <!-- Intro  -->
-<h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/kvnrs23/">Rajasekhar</a> </h1>
-
-
-
-
+<h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/kvnrs23/">Rajasekhar</a></h1>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 <p align="center">
- <a href="https://raja-eta.vercel.app/" target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="raja" />
- </a>
+ <a href="https://raja-eta.vercel.app/" target="blank">  
+  <img src="https://skillicons.dev/icons?i=devto" alt="raja" />
+ </a> 
+ 
  <a href="https://linkedin.com/in/kvnrs23" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="raja"/>
- </a>
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="raja"/>
+ </a> 
+ 
  <a href="https://twitter.com/vnrajasekar" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
- </a>
+  <img src="https://skillicons.dev/icons?i=twitter" />
+ </a> 
+ 
  <a href="https://instagram.com/vnrajasekar_.rahul" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="raja" />
+  <img src="https://skillicons.dev/icons?i=instagram" alt="raja" />
  </a> 
 </p>
-<br />
+
+
 
 <!-- About Section -->
- # About me
- 
+ ### About me
+ <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg49pyqSutIG6xDHG-3Vi76Tqu-N280YATw&s" min-width="100px" max-width="150px" width="300px" align="right" >
 <p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, a dedicated learner with a keen interest in the dynamic realms of Full-Stack Web Development and DevOps. 
         
-Web Development Journey:
+<em> Web Development Journey: </em>
 Two virtual internships have enriched my skills in web development, exposing me to diverse projects that span the spectrum from frontend design to backend logic. 
         
-DevOps Exploration:
+<em> DevOps Exploration: </em>
 Eager to embrace the culture of collaboration and efficiency, I've been delving into the world of DevOps. By integrating development and operations, I aim to streamline workflows, automate processes, and enhance overall project delivery. 
 
 Continuous learning in this space keeps me at the forefront of industry best practices.
@@ -39,18 +40,29 @@ Constantly upgrading my skills, I believe in staying ahead of the curve. As the 
 I'm always open to connecting with like-minded professionals, enthusiasts, and potential collaborators. If you share an interest in web development, DevOps, or simply want to exchange ideas, feel free to reach out!.</p>  
 
   <a href="https://www.linkedin.com/in/kvnrs23/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+    <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kanagalavnrajasekhar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="gmail logo"  />
+    <img src="https://skillicons.dev/icons?i=gmail"  alt="gmail logo"  />
   </a>
 </p>
 
 <br/>
 
 
-# 💻 Use To Code
+### 💻 Use To Code
 
+[![My Skills](https://skillicons.dev/icons?i=python,java)]()
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,bootstrap,tailwind,php)]()
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
+
+[![My Skills](https://skillicons.dev/icons?i=npm,git,github,vscode,postman)]()
+
+
+<!--
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/python-ffd43b?style=for-the-badge&labelColor=black&logo=python&logoColor=4b8bbe" height="30" alt="python"/></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=openjdk&logoColor=red&labelColor=black" height="30" alt="JAVA"/></a>
 <br/>
@@ -87,12 +99,16 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
 <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a> -->
 
-#  Top Open Source 
-[![cv](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=cv&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/cv)
+### Top Open Source 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+<div align="center">
+ 
+[![buzzchat](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=buzzchat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/buzzchat)
 [![Tradeit](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/trade-app)
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=banking-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/banking-system)
 [![adversial-deepfake](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=adversial-deepfake&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/adversial-deepfake)
 
+</div>
 <p align="left">
   <a href="https://github.com/kvnrajasekhar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
@@ -102,34 +118,43 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <br/>
 
 
-# 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+
 ![](https://github-profile-trophy.vercel.app/?username=kvnrajasekhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## ✍️ Random Dev Quote
-   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <p align="center">
-  <a href="https://github.com/kvnrajasekhar">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kvnrajasekhar&theme=radical&border=7F3FBF&background=0D1117" alt="rajasekhar's GitHub streak"/>
+  <a>
+    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kvnrajasekhar&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" /></a>
+   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
   </a>
+ <div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvnrajasekhar&theme=monokai" />
+ </div>
+ <div>
+  
+# <b>More Stats & Activity📊</b><br>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvnrajasekhar&theme=monokai"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvnrajasekhar&theme=monokai"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kvnrajasekhar&theme=monokai"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kvnrajasekhar&theme=monokai" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="kvnrajasekhar" />
+<br />
+</div>
 </p>
 
-<p align="center">
-  <a href="https://github.com/kvnrajasekhar">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvnrajasekhar&theme=radical" alt="rajasekhar's GitHub Contribution"/>
-  </a>
-</p>
+### ✍️ Random Dev Quote
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
-<a> 
-    <a href="https://github.com/kvnrajasekhar"><img alt="kvnrajasekhar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kvnrajasekhar&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/kvnrajasekhar"><img alt="kvnrajasekhar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kvnrajasekhar&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+<div align="center">
+<img align="center" src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></div>
 
-
-![kvnrajasekhar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&custom_title=kvnrajasekhar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <p align="justify"> 
  <img src="https://komarev.com/ghpvc/?username=kvnrajasekhar&label=Profile%20views&color=5865f2&style=for-the-badge" alt="profile views" height="30"/>
