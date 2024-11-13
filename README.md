@@ -124,11 +124,13 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
  <div>
   
 # <b>More Stats & Activity📊</b><br>
+<div align="center">
+
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvnrajasekhar&theme=monokai"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kvnrajasekhar&theme=monokai"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kvnrajasekhar&theme=monokai"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kvnrajasekhar&theme=monokai" />
-
+</div>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="kvnrajasekhar" />
 <br />
 </div>
