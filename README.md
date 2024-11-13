@@ -2,24 +2,13 @@
 <!-- Intro  -->
 <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/kvnrs23/">Rajasekhar</a></h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-
-<p align="center">
- <a href="https://raja-eta.vercel.app/" target="blank">  
-  <img src="https://skillicons.dev/icons?i=devto" alt="raja" />
- </a> 
+<div align="center">
  
- <a href="https://linkedin.com/in/kvnrs23" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="raja"/>
- </a> 
- 
- <a href="https://twitter.com/vnrajasekar" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" />
- </a> 
- 
- <a href="https://instagram.com/vnrajasekar_.rahul" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" alt="raja" />
- </a> 
-</p>
+[![portfolio](https://skillicons.dev/icons?i=devto)](https://raja-eta.vercel.app/)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/kvnrs23)
+[![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vnrajasekar)
+[![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vnrajasekar_.rahul)
+</div>
 
 
 
@@ -39,12 +28,8 @@ Continuous learning in this space keeps me at the forefront of industry best pra
 Constantly upgrading my skills, I believe in staying ahead of the curve. As the tech landscape evolves, so do I. The journey of learning is a perpetual adventure, and I'm thrilled to embrace every challenge it brings.
 I'm always open to connecting with like-minded professionals, enthusiasts, and potential collaborators. If you share an interest in web development, DevOps, or simply want to exchange ideas, feel free to reach out!.</p>  
 
-  <a href="https://www.linkedin.com/in/kvnrs23/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"  alt="linkedin logo"  />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kanagalavnrajasekhar@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail"  alt="gmail logo"  />
-  </a>
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kvnrs23/)
+[![mail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=kanagalavnrajasekhar@gmail.com)
 </p>
 
 <br/>
