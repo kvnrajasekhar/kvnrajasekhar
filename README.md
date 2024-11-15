@@ -13,7 +13,7 @@
 
 
 <!-- About Section -->
- ### About me
+ ### 🙋‍♂️About me
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg49pyqSutIG6xDHG-3Vi76Tqu-N280YATw&s" min-width="100px" max-width="150px" width="300px" align="right" >
 <p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, a dedicated learner with a keen interest in the dynamic realms of Full-Stack Web Development and DevOps. 
@@ -36,6 +36,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 
 ### 💻 Use To Code
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
 [![My Skills](https://skillicons.dev/icons?i=python,java)]()
 
@@ -84,7 +85,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
 <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a> -->
 
-### Top Open Source 
+### 💥Top Open Source 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
  
@@ -98,9 +99,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
   <a href="https://github.com/kvnrajasekhar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-<br/>
-<hr/>
-<br/>
+
 
 
 ### 🏆 GitHub Trophies
@@ -115,7 +114,9 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <p align="center">
   <a>
     <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kvnrajasekhar&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB&excludeDaysLabel=EB0000" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=kvnrajasekhar&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB" alt="GitHub Streak"/>
+    </a>
    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
   </a>
  <div align="center">
@@ -123,7 +124,8 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
  </div>
  <div>
   
-# <b>More Stats & Activity📊</b><br>
+### <b>More Stats & Activity📊 :</b><br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kvnrajasekhar&theme=monokai"/>
