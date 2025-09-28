@@ -40,7 +40,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 [![My Skills](https://skillicons.dev/icons?i=python,java)]()
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,bootstrap,tailwind,php)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,bootstrap,tailwind,spring)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
 
@@ -89,9 +89,9 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
  
-[![buzzchat](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=buzzchat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/buzzchat)
+[![Quickfix](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=quickfix&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/quickfix)
+[![Food Ordering](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=food-ordering-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/banking-system)
 [![Tradeit](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/trade-app)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=banking-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/banking-system)
 [![adversial-deepfake](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=adversial-deepfake&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/adversial-deepfake)
 
 </div>
