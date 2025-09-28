@@ -16,17 +16,17 @@
  ### 🙋‍♂️About me
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg49pyqSutIG6xDHG-3Vi76Tqu-N280YATw&s" min-width="100px" max-width="150px" width="300px" align="right" >
-<p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, a dedicated learner with a keen interest in the dynamic realms of Full-Stack Web Development and DevOps. 
+<p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, I am a results-driven Software Engineer with strong skills in Java, Spring Boot, and full-stack development using React.js. Experienced in building scalable and secure applications with a focus on performance and high availability, I enjoy solving complex problems and delivering reliable software solutions. 
         
-<em> Web Development Journey: </em>
-Two virtual internships have enriched my skills in web development, exposing me to diverse projects that span the spectrum from frontend design to backend logic. 
+<em> My Experience: </em>
+My expertise spans backend technologies such as RESTful APIs, Springboot, and relational and non-relational databases including MySQL and MongoDB. I am familiar with modern development tools like Git, and continuously expanding my skill set in DevOps and cloud technologies. 
         
-<em> DevOps Exploration: </em>
-Eager to embrace the culture of collaboration and efficiency, I've been delving into the world of DevOps. By integrating development and operations, I aim to streamline workflows, automate processes, and enhance overall project delivery. 
+I am passionate about learning new technologies and enhancing my development craft through hands-on projects, competitive programming.
 
 Continuous learning in this space keeps me at the forefront of industry best practices.
 Constantly upgrading my skills, I believe in staying ahead of the curve. As the tech landscape evolves, so do I. The journey of learning is a perpetual adventure, and I'm thrilled to embrace every challenge it brings.
-I'm always open to connecting with like-minded professionals, enthusiasts, and potential collaborators. If you share an interest in web development, DevOps, or simply want to exchange ideas, feel free to reach out!.</p>  
+
+I'm always open to connecting with like-minded professionals, enthusiasts, and potential collaborators. If you share an interest in Tech., or simply want to exchange ideas, feel free to reach out!.</p>  
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kvnrs23/)
 [![mail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=kanagalavnrajasekhar@gmail.com)
