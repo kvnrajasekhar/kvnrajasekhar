@@ -126,12 +126,13 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 ### 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kvnrajasekhar&theme=tokyonight&hide_border=true" width="100%" />
-  <br/>
-  <img src="https://raw.githubusercontent.com/kvnrajasekhar/kvnrajasekhar/output/github-contribution-grid-snake.svg" alt="snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kvnrajasekhar/kvnrajasekhar/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kvnrajasekhar/kvnrajasekhar/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kvnrajasekhar/kvnrajasekhar/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ### ✍️ Random Dev Quote
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
