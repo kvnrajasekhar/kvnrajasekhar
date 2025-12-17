@@ -19,7 +19,7 @@
 <p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, I am a results-driven Software Engineer with strong skills in Java, Spring Boot, and full-stack development using React.js. Experienced in building scalable and secure applications with a focus on performance and high availability, I enjoy solving complex problems and delivering reliable software solutions. 
         
 <em> My Experience: </em>
-My expertise spans backend technologies such as RESTful APIs, Springboot, and relational and non-relational databases including MySQL and MongoDB. I am familiar with modern development tools like Git, and continuously expanding my skill set in DevOps and cloud technologies. 
+My expertise spans backend technologies such as RESTful APIs, Springboot, Node.js and relational and non-relational databases including MySQL and MongoDB. I am familiar with modern development tools like Git, and continuously expanding my skill set in DevOps and cloud technologies. 
         
 I am passionate about learning new technologies and enhancing my development craft through hands-on projects, competitive programming.
 
@@ -40,7 +40,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 [![My Skills](https://skillicons.dev/icons?i=python,java)]()
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,nodejs,bootstrap,tailwind,spring)]()
+[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,html,css,bootstrap,tailwind,spring)]()
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
 
@@ -87,44 +87,31 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 
 ### 💥Top Open Source 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-<div align="center">
  
-[![Quickfix](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=quickfix&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/quickfix)
-[![Food Ordering](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=food-ordering-system&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/banking-system)
-[![Tradeit](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/trade-app)
-[![adversial-deepfake](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=adversial-deepfake&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/kvnrajasekhar/adversial-deepfake)
-
+<div align="center">
+  <a href="https://github.com/kvnrajasekhar/quickfix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=quickfix&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
+  <a href="https://github.com/kvnrajasekhar/feastplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=feastplus&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
+  <br />
+  <a href="https://github.com/kvnrajasekhar/buzzchat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=buzzchat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
+  <a href="https://github.com/kvnrajasekhar/trade-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
 </div>
+
 <p align="left">
-  <a href="https://github.com/kvnrajasekhar?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  <a href="https://github.com/kvnrajasekhar?tab=repositories" target="_blank"><img alt="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
-
-
-
-### 🏆 GitHub Trophies
-
+<!-- ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-
-![](https://github-profile-trophy.vercel.app/?username=kvnrajasekhar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=kvnrajasekhar&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 
 ### 📊 GitHub Stats:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-<p align="center">
-  <a>
-    <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883377-48faf476-56b7-4550-8574-844f2ca8baca.png">
-    <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=kvnrajasekhar&theme=dark&hide_border=true&background=000000&border=EB1484&stroke=C290EB&ring=EB0390&fire=EB0000&currStreakNum=DA80EB&sideNums=C29AEB&currStreakLabel=EB0000&sideLabels=EB0093&dates=C385EB" alt="GitHub Streak"/>
-    </a>
-   <img height="150" width="150" src="https://user-images.githubusercontent.com/85965606/194883387-b4d3b9f8-d432-4b77-8aab-77c6ed120e31.png">      
-  </a>
  <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kvnrajasekhar&theme=monokai" />
  </div>
- <div>
   
-### <b>More Stats & Activity📊 :</b><br>
+### More Stats & Activity📊:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
 
@@ -136,15 +123,20 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="kvnrajasekhar" />
 <br />
 </div>
-</p>
 
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kvnrajasekhar&theme=tokyonight&hide_border=true" width="100%" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/kvnrajasekhar/kvnrajasekhar/output/github-contribution-grid-snake.svg" alt="snake" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 ### ✍️ Random Dev Quote
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
-
 <div align="center">
-<img align="center" src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /></div>
-
-
+    <img align="center" src = "https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
 <p align="justify"> 
  <img src="https://komarev.com/ghpvc/?username=kvnrajasekhar&label=Profile%20views&color=5865f2&style=for-the-badge" alt="profile views" height="30"/>
 </p>
