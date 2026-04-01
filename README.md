@@ -85,20 +85,21 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-f29111?style=for-the-badge&logo=mysql&logoColor=orange&color=f29111&labelColor=black" height="30" alt="mysql" /> </a>
 <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=black" height="30" alt="docker" /> </a> -->
 
-### 💥Top Open Source 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
- 
-<div align="center">
-  <a href="https://github.com/kvnrajasekhar/quickfix"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=quickfix&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
-  <a href="https://github.com/kvnrajasekhar/feastplus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=feastplus&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
-  <br />
-  <a href="https://github.com/kvnrajasekhar/buzzchat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=buzzchat&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
-  <a href="https://github.com/kvnrajasekhar/trade-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" height="120" /></a>
-</div>
+<!-- ## 💥 Top Open Source
 
-<p align="left">
-  <a href="https://github.com/kvnrajasekhar?tab=repositories" target="_blank"><img alt="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+![banner](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
+### 🚀 Projects
+
+[![QuickFix](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=quickfix)](https://github.com/kvnrajasekhar/quickfix)
+[![FeastPlus](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=feastplus)](https://github.com/kvnrajasekhar/feastplus)
+
+[![BuzzChat](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=buzzchat)](https://github.com/kvnrajasekhar/buzzchat)
+[![Trade App](https://github-readme-stats.vercel.app/api/pin/?username=kvnrajasekhar&repo=trade-app)](https://github.com/kvnrajasekhar/trade-app)
+
+---
+
+[![All Repos](https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=github)](https://github.com/kvnrajasekhar?tab=repositories) -->
 
 <!-- ### 🏆 GitHub Trophies
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
