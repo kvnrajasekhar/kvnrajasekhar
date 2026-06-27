@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <div align="center">
  
-[![portfolio](https://skillicons.dev/icons?i=devto)](https://raja-eta.vercel.app/)
+[![portfolio](https://skillicons.dev/icons?i=devto)](https://vnrajasekhar.dev/)
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/kvnrs23)
 [![twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/vnrajasekar)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/vnrajasekar_.rahul)
