@@ -1,7 +1,7 @@
 
 <!-- Intro  -->
 <h1 align="center"> Hi, I'm <a href="https://www.linkedin.com/in/kvnrs23/">Rajasekhar</a></h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100"> -->
 <div align="center">
  
 [![portfolio](https://skillicons.dev/icons?i=devto)](https://vnrajasekhar.dev/)
@@ -16,17 +16,30 @@
  ### 🙋‍♂️About me
  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg49pyqSutIG6xDHG-3Vi76Tqu-N280YATw&s" min-width="100px" max-width="150px" width="300px" align="right" >
-<p aliign ="justify" width="100px">Hello there! 👋 I am K.V.N.Rajasekhar, I am a results-driven Software Engineer with strong skills in Java, Spring Boot, and full-stack development using React.js. Experienced in building scalable and secure applications with a focus on performance and high availability, I enjoy solving complex problems and delivering reliable software solutions. 
-        
-<em> My Experience: </em>
-My expertise spans backend technologies such as RESTful APIs, Springboot, Node.js and relational and non-relational databases including MySQL and MongoDB. I am familiar with modern development tools like Git, and continuously expanding my skill set in DevOps and cloud technologies. 
-        
-I am passionate about learning new technologies and enhancing my development craft through hands-on projects, competitive programming.
+<p aliign ="justify" width="100px">
+Hi there, I'm K.V.N. Rajasekhar 👋
 
-Continuous learning in this space keeps me at the forefront of industry best practices.
-Constantly upgrading my skills, I believe in staying ahead of the curve. As the tech landscape evolves, so do I. The journey of learning is a perpetual adventure, and I'm thrilled to embrace every challenge it brings.
+I am a **Software Engineer** specializing in distributed backend systems, event-driven architectures, and high-performance RESTful APIs. Currently building and scaling backend microservices at **Cognizant**, delivering mission-critical features across insurance and benefits platforms.
 
-I'm always open to connecting with like-minded professionals, enthusiasts, and potential collaborators. If you share an interest in Tech., or simply want to exchange ideas, feel free to reach out!.</p>  
+---
+
+### 🛠️ What I Work With
+- **Languages:** Java, TypeScript, JavaScript, Python, SQL
+- **Backend & Architecture:** NestJS, Spring Boot, Node.js, Express.js, RESTful APIs, Microservices, Event-Driven Architecture
+- **Databases & Caching:** PostgreSQL, MySQL, MongoDB, Redis (Cache-Aside, TTLs)
+- **Distributed Systems & Messaging:** Apache Kafka, Asynchronous Event Processing
+- **DevOps, Cloud & Tooling:** Docker, Git/GitHub, Vercel, Postman, New Relic, Winston
+- **Testing:** JUnit, API Integration Testing
+
+---
+
+### 🚀 Key Engineering Focus
+- 🏗️ **Architecting Scalable Backends:** Building event-driven platforms with **NestJS**, **Apache Kafka**, and **Redis**—handling asynchronous processing pipelines, cursor-based pagination, and distributed telemetry.
+- 🔒 **Enterprise Security & Reliability:** Implementing production **MFA authentication**, token lifecycle validation (`grant_type`), rate limiting, and structured logging with request correlation IDs (`X-Correlation-ID`)
+- 🧩 **Algorithmic Problem Solving:** Actively sharpening data structures and algorithmic efficiency (**230+ LeetCode & GeeksforGeeks problems solved**).
+
+---
+</p>  
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kvnrs23/)
 [![mail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&fs=1&to=kanagalavnrajasekhar@gmail.com)
@@ -38,14 +51,17 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
 ### 💻 Use To Code
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
 
-[![My Skills](https://skillicons.dev/icons?i=python,java)]()
+<!-- Languages -->
+[![Languages](https://skillicons.dev/icons?i=java,ts,js,python)]()
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,express,nodejs,html,css,bootstrap,tailwind,spring)]()
+<!-- Backend & Frameworks -->
+[![Backend & Frameworks](https://skillicons.dev/icons?i=nestjs,spring,nodejs,express,react,tailwind)]()
 
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)]()
+<!-- Databases, Caching & Streaming -->
+[![Databases & Streaming](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka)]()
 
-[![My Skills](https://skillicons.dev/icons?i=npm,git,github,vscode,postman)]()
-
+<!-- DevOps, Cloud & Developer Tools -->
+[![Tools & DevOps](https://skillicons.dev/icons?i=docker,git,github,postman,vercel)]()
 
 <!--
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1100">
@@ -121,7 +137,7 @@ I'm always open to connecting with like-minded professionals, enthusiasts, and p
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kvnrajasekhar&theme=monokai"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kvnrajasekhar&theme=monokai" />
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="kvnrajasekhar" />
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=kvnrajasekhar&bg_color=000000&color=DA80EB&line=EB1484&point=C29AEB&area=true&hide_border=true" alt="kvnrajasekhar" /> -->
 <br />
 </div>
 
